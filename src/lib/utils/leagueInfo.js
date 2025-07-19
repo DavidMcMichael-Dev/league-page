@@ -25,7 +25,7 @@ export const managers = [
       "name": "David",
       "managerID": "1002569378101022720",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       // "bio": "Lorem ipsum...",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/david.png", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "philosophy": "Passion",
       "tradingScale": 10, // 1 - 10
@@ -35,7 +35,7 @@ export const managers = [
       "name": "Odhran",
       "managerID": "1002571202480017408",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       // "bio": "Lorem ipsum...",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/odhran.png", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "philosophy": "TBD",
       "tradingScale": 10, // 1 - 10
@@ -45,7 +45,7 @@ export const managers = [
       "name": "Owen",
       "managerID": "867805566834204672",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       // "bio": "Lorem ipsum...",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/owen.png", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "philosophy": "TBD",
       "tradingScale": 10, // 1 - 10
@@ -55,7 +55,7 @@ export const managers = [
       "name": "Conall",
       "managerID": "609719480884486144",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       // "bio": "Lorem ipsum...",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/conall.png", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "min", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "philosophy": "TBD",
       "tradingScale": 10, // 1 - 10
@@ -65,7 +65,7 @@ export const managers = [
       "name": "Matthew",
       "managerID": "736250418220388352",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       // "bio": "Lorem ipsum...",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/matthew.png", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "philosophy": "TBD",
       "tradingScale": 10, // 1 - 10
@@ -75,7 +75,7 @@ export const managers = [
       "name": "Lloyd",
       "managerID": "1002571834886598656",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       // "bio": "Lorem ipsum...",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/lloyd.png", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "sf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "philosophy": "TBD",
       "tradingScale": 10, // 1 - 10
@@ -85,7 +85,7 @@ export const managers = [
       "name": "Scott",
       "managerID": "1002572552824926208",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       // "bio": "Lorem ipsum...",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/scott.png", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "philosophy": "TBD",
       "tradingScale": 10, // 1 - 10
@@ -95,7 +95,7 @@ export const managers = [
       "name": "Charlie",
       "managerID": "1002573689112645632",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       // "bio": "Lorem ipsum...",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/charlie.png", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "dal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "philosophy": "TBD",
       "tradingScale": 10, // 1 - 10
@@ -105,7 +105,7 @@ export const managers = [
       "name": "Sam",
       "managerID": "1002609588467818496",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       // "bio": "Lorem ipsum...",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/sam.png", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "cle", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "philosophy": "TBD",
       "tradingScale": 10, // 1 - 10
@@ -115,7 +115,7 @@ export const managers = [
       "name": "Andy",
       "managerID": "1002753028555935744",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       // "bio": "Lorem ipsum...",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/andy.png", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "philosophy": "TBD",
       "tradingScale": 10, // 1 - 10
@@ -125,7 +125,7 @@ export const managers = [
       "name": "Jason",
       "managerID": "1003753758922256384",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       // "bio": "Lorem ipsum...",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/jason.png", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "philosophy": "TBD",
       "tradingScale": 10, // 1 - 10
@@ -135,7 +135,7 @@ export const managers = [
       "name": "Jamie",
       "managerID": "1004377372122046464",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       // "bio": "Lorem ipsum...",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/jamie.png", // square ratio recommended (no larger than 500x500)
       "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "philosophy": "TBD",
       "tradingScale": 10, // 1 - 10
