@@ -100,8 +100,8 @@
     }
 </style>
 
-<!-- {#if validGraph && !seasonOver} -->
+{#if validGraph && !seasonOver}
     <div class="enclosure">
         <BarChart {graphs} bind:curGraph={curGraph} {leagueTeamManagers} />
     </div>
-<!-- {/if} -->
+{/if}
