@@ -233,7 +233,7 @@
         <div class="basicInfo">
             <!-- <span class="infoChild">{viewManager.location || 'Undisclosed Location'}</span> -->
             {#if viewManager.managerID && datesActive.start}
-                <span class="seperator">|</span>
+                <!-- <span class="seperator">|</span> -->
                 {#if datesActive.end}
                     <span class="infoChild">In the league from '{datesActive.start.toString().substr(2)} to '{datesActive.end.toString().substr(2)}</span>
                 {:else}
@@ -252,7 +252,7 @@
             <!-- <span class="infoChild">{viewManager.preferredContact}</span> -->
             {#if viewManager.favoriteTeam}
                 <!-- favoriteTeam is an optional field -->
-                <!-- <span class="seperator">|</span> -->
+                <span class="seperator">|</span>
                 <img class="infoChild infoTeam" src="https://sleepercdn.com/images/team_logos/nfl/{viewManager.favoriteTeam}.png" alt="favorite team"/>
             {/if}
             {#if commissioner}
